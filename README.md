@@ -21,6 +21,13 @@ npm install TakutoYoshikai/dogwalk
 <p class="dogwalk">I love dogs.</p>
 ```
 
+**run DogWalk**
+```html
+<script>
+  DogWalk();
+</script>
+```
+
 ### Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
