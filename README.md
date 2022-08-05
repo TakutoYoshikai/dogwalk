@@ -2,7 +2,7 @@
 dog walking animation
 
 ### Requirements
-Nothing
+* npm
 
 ### Usage
 **install**
