@@ -1,6 +1,8 @@
 # dogwalk
 dog walking animation
 
+<img src="./dogwalk.png" width="400">
+
 ### Requirements
 Nothing
 
