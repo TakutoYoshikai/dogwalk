@@ -1,7 +1,7 @@
 # dogwalk
 dog walking animation
 
-<img src="./dogwalk.png" width="400">
+<img src="./dogwalk.png" width="200">
 
 ### Requirements
 * npm
