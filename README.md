@@ -14,20 +14,15 @@ npm install TakutoYoshikai/dogwalk
 
 **import library**
 ```html
-<script src="./node_modules/dogwalk/index.js"></script>
+<script src="./node_modules/dogwalk/index.js" defer></script>
 ```
 
 **name class**
+dogwalk classes works if those elements have no child elements.
+
 ```html
 <p class="dogwalk">Hello World.</p>
 <p class="dogwalk">I love dogs.</p>
-```
-
-**run DogWalk**
-```html
-<script>
-  DogWalk();
-</script>
 ```
 
 ### Contributing
